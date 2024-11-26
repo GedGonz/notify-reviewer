@@ -1,4 +1,4 @@
-# notify-reviewer-jobs
+# notify-reviewer
 
 Este es un pequeño script para mostar notificaciones en linux por cada PR asignado al usuario de gitlab
 
